@@ -1,2 +1,5 @@
-# project1 Django 
+# project Django
+# Created new views,models,web-page.
+
+ 
  
